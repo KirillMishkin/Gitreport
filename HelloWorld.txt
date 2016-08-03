@@ -1,1 +1,2 @@
-print ("HelloWorld") 22
+print ("HelloWorld") 	
+Print (" Hellow mid")
